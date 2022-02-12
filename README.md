@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+* The thing is in this entire tutorial we going to learn complete rails application 
